@@ -527,3 +527,4 @@
   8. If you ever get stuck, use "Ask a Question" to get help, don't be shy!
 </div>
 <p data-visibility='hidden'>KWK-T1 Your First IDE Lab</p>
+hello everyone 
